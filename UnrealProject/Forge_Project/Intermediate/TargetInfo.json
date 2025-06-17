@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Forge_Project",
+			"Path": "..\\Source\\Forge_Project.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Forge_ProjectEditor",
+			"Path": "..\\Source\\Forge_ProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

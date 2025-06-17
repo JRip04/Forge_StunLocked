@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Forge_Project.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:/AIT Current/Y3T2/Forge_StunLocked/UnrealProject/Forge_Project/Intermediate/Build/Win64/x64/Forge_ProjectEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"E:/AIT Current/Y3T2/Forge_StunLocked/UnrealProject/Forge_Project/Intermediate/Build/Win64/x64/UnrealEditor/Development/Forge_Project/Forge_Project.cpp.obj"
+"E:/AIT Current/Y3T2/Forge_StunLocked/UnrealProject/Forge_Project/Intermediate/Build/Win64/x64/UnrealEditor/Development/Forge_Project/PerModuleInline.gen.cpp.obj"
+"E:/AIT Current/Y3T2/Forge_StunLocked/UnrealProject/Forge_Project/Intermediate/Build/Win64/x64/UnrealEditor/Development/Forge_Project/Default.rc2.res"
+/OUT:"E:/AIT Current/Y3T2/Forge_StunLocked/UnrealProject/Forge_Project/Intermediate/Build/Win64/x64/UnrealEditor/Development/Forge_Project/UnrealEditor-Forge_Project.lib"

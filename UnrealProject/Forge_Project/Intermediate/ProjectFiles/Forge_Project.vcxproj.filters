@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Forge_Project.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Forge_Project.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Forge_ProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\Forge_Project.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Forge_Project">
+      <UniqueIdentifier>{0522CB56-069F-35AD-AE6A-4DE8242405BD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Forge_Project\Forge_Project.Build.cs">
+      <Filter>Source\Forge_Project</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Forge_Project\Forge_Project.cpp">
+      <Filter>Source\Forge_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Forge_Project\Forge_Project.h">
+      <Filter>Source\Forge_Project</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ait current\\y3t2\\forge_stunlocked\\unrealproject\\forge_project\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\forge_project\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ait current\\y3t2\\forge_stunlocked\\unrealproject\\forge_project\\intermediate\\build\\win64\\x64\\forge_projecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\ait current\\y3t2\\forge_stunlocked\\unrealproject\\forge_project\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\forge_project\\definitions.forge_project.h",
+            "f:\\unreal\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
