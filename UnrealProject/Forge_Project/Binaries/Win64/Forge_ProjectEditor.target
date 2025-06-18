@@ -4090,6 +4090,22 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Runtime/Steam/SteamController/Binaries/Win64/UnrealEditor-SteamController.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/Steam/SteamController/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/Steam/SteamShared/Binaries/Win64/UnrealEditor-SteamShared.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/Steam/SteamShared/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Runtime/Synthesis/Binaries/Win64/UnrealEditor-Synthesis.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -4135,6 +4151,14 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/Windows/WinDualShock/Binaries/Win64/UnrealEditor-WinDualShock.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/Windows/WinDualShock/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -28708,6 +28732,14 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Runtime/Steam/SteamController/SteamController.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/Steam/SteamShared/SteamShared.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Runtime/Synthesis/Synthesis.uplugin",
 			"Type": "UFS"
 		},
@@ -28725,6 +28757,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/Windows/WinDualShock/WinDualShock.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -28939,6 +28975,8 @@
 		"SoundFields",
 		"SpeedTreeImporter",
 		"StateTree",
+		"SteamController",
+		"SteamShared",
 		"StylusInput",
 		"SubversionSourceControl",
 		"Synthesis",
@@ -28961,6 +28999,7 @@
 		"WaveTable",
 		"WebMMedia",
 		"WebMMoviePlayer",
+		"WinDualShock",
 		"WindowsDeviceProfileSelector",
 		"WindowsMoviePlayer",
 		"WmfMedia",

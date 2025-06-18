@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Forge_ProjectModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3614ac5d38feeadc80bf8288b0644ab02118111d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85cde4318cd15599c0c9224a5ddfe96b02110dfd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Forge_ProjectModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Forge_ProjectModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
