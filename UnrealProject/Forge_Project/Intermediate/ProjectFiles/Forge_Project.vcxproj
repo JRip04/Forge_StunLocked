@@ -252,6 +252,7 @@
     <None Include="..\..\Forge_Project.uproject"/>
     <None Include="..\..\Source\Forge_Project.Target.cs"/>
     <None Include="..\..\Source\Forge_ProjectEditor.Target.cs"/>
+    <None Include="..\..\.vsconfig"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEditorSettings.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
